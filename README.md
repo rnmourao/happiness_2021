@@ -24,10 +24,10 @@ Finally, we will cluster the countries, to discover which countries has been mor
 
 - Dataset: www.kaggle.com/ajaypalsinghlo/world-happiness-report-2021
 - Report: https://worldhappiness.report
-- Ministry of Happiness: u.ae/en/about-the-uae/the-uae-government/government-of-future/happiness
+- Ministry of Happiness: https://u.ae/en/about-the-uae/the-uae-government/government-of-future/happiness
 - UAE Demographics: www.globalmediainsight.com/blog/uae-population-statistics
 - Generosity survey: www.cafonline.org/docs/default-source/about-us-publications/caf_worldgivingindex2015_report.pdf?sfvrsn=2
-- Data Science Algorithms: scikit-learn.org
-- Statistical Theory: online.stat.psu.edu
-- Experimental Design: imaging.mrc-cbu.cam.ac.uk/statswiki/FAQ/Simon
-- Interpolation: en.wikipedia.org/wiki/Linear_interpolation
+- Data Science Algorithms: https://scikit-learn.org
+- Statistical Theory: https://online.stat.psu.edu
+- Experimental Design: https://imaging.mrc-cbu.cam.ac.uk/statswiki/FAQ/Simon
+- Interpolation: https://en.wikipedia.org/wiki/Linear_interpolation
